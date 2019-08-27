@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Download Manager</string>
+
+    <string name="downloading">downloading…</string>
+    <string name="queued">QUEUED</string>
+    <string name="added">ADDED</string>
+    <string name="completed">COMPLETED</string>
+    <string name="status_unknown">Status Unknown</string>
+    <string name="delete_all_files">Delete Downloaded Files</string>
+    <string name="file_server">FETCH FILE SERVER DEMO</string>
+    <string name="downloaded_files_deleted">Downloads Files Deleted</string>
+    <string name="game_download_error">An error occurred, could not get game files.</string>
+    <string name="failed_multi_enqueue">Failed Multi Enqueue Demo</string>
+    <string name="multi_fragment">MULTI FRAGMENT DEMO</string>
+    <string name="enqueue_error">Could not enqueue this request. Check logcat.</string>
+    <string name="download_eta_sec">%1$ds left</string>
+    <string name="download_eta_min">%1$dm %2$ds left</string>
+    <string name="download_eta_hrs">%1$dh %2$dm %3$ds left</string>
+    <string name="download_speed_bytes">%1$d B/s</string>
+    <string name="download_speed_kb">%1$s KB/s</string>
+    <string name="download_speed_mb">%1$s MB/s</string>
+</resources>
