@@ -32,6 +32,7 @@ import java.util.*
 
 class MainActivity : AppCompatActivity(), FetchListener, FetchObserver<Download> {
 
+    //Testin
     //Setting download Id for the per download
     private lateinit var fetch: Fetch
     private val TAG = "MainActivity"
